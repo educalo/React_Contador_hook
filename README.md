@@ -1,6 +1,6 @@
 # 📌 Contador de Clics
 
-Tiempo: 4:41
+Tiempo: 3:41
 
 ¡Hola! Esta es una aplicación desarrollada con React, un contador de clics interactivo que incrementa el contador al hacer clic en un botón. El contador se reinicia si se hace clic en el botón reiniciar. 
 
