@@ -1,0 +1,14 @@
+1.- Creamos la siguiente estructura dentro de src: carpeta componentes, hoja-de-estilo, imagenes.
+2.- Eliminamos los siguientes ficheros setupTest.js, reportWebVitals.js, App.test.js y los logos de React dentro de public.
+3.- Eliminamos las referencias a estos ficheros que hemos eliminados.
+4.- Borramos el contenido del fichero App.css
+
+5.- Definimos el fichero App.js
+
+6.- Creo dentro de la carpeta componentes boton.js y contador.js
+7.- Creo dentro de la carpeta hoja-de-estilo boton.css y contador.css
+
+8.- Defino el componente boton dentro de la carpeta componentes boton.js
+9.- Defino el componente contador dentro de la carpeta componentes contador.js
+
+8.- El componente App.js va a renderizar el contador y los botones
