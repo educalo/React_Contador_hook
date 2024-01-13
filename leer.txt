@@ -11,4 +11,7 @@
 8.- Defino el componente boton dentro de la carpeta componentes boton.js
 9.- Defino el componente contador dentro de la carpeta componentes contador.js
 
-8.- El componente App.js va a renderizar el contador y los botones
+10.- El componente App.js va a renderizar el contador y los botones
+
+11.- Defino los estado/hook en App.js
+
